@@ -26,4 +26,4 @@ var phrase = 'I don\'t know \n You\'ll have to speak with the professor';
 
 var mupperNames = ["Kermite", "Miss Piggy", "Gonzo", "RIzzo"];//0,1,2,3(indexes)
 
-console.log (mupperNames);
+console.log (mupperNames[0]);
