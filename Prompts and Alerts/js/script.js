@@ -1,7 +1,8 @@
 //Prompts and Alerts
-
+/*
 var userInput = prompt("Enter your year of birth:");
 console.log(userInput);
-/**
- * Created by Josh on 6/10/14.
- */
+*/
+
+var width = prompt("We are calculating the area of a rectangle. Please enter the width");
+var height = prompt("Please enter the height");
