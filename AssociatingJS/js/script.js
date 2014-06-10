@@ -1,0 +1,1 @@
+alert("This is from my js file!")// JavaScript Document
