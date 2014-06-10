@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34d53bfe-6109-47e8-9c6a-61f63b1fbdd0" name="Default" comment="Updated variable work">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Prompts and Alerts/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Prompts and Alerts/js/script.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Prompts and Alerts/js/script.js" afterPath="$PROJECT_DIR$/Prompts and Alerts/js/script.js" />
     </list>
     <ignored path="WPF Respository.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -48,22 +47,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Prompts and Alerts/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.11329305" vertical-offset="0" max-vertical-offset="662">
+            <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="240">
               <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="script.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Prompts and Alerts/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+            <state vertical-scroll-proportion="0.02186589" vertical-offset="0" max-vertical-offset="686">
+              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding>
+                <element signature="e#38#76#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -85,8 +86,8 @@
         <option value="$PROJECT_DIR$/Under_the_Hood/js/script.js" />
         <option value="$PROJECT_DIR$/Expressions/index.html" />
         <option value="$PROJECT_DIR$/Expressions/js/script.js" />
-        <option value="$PROJECT_DIR$/Prompts and Alerts/js/script.js" />
         <option value="$PROJECT_DIR$/Prompts and Alerts/index.html" />
+        <option value="$PROJECT_DIR$/Prompts and Alerts/js/script.js" />
       </list>
     </option>
   </component>
@@ -379,14 +380,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Prompts and Alerts/js/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="686">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Expressions/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="150">
@@ -399,9 +392,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Prompts and Alerts/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.11329305" vertical-offset="0" max-vertical-offset="662">
+        <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="240">
           <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Prompts and Alerts/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.02186589" vertical-offset="0" max-vertical-offset="686">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding>
+            <element signature="e#38#76#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
