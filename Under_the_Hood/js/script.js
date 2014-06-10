@@ -20,4 +20,4 @@ var isStudent = false;
 var firstName = "Kermit";
 var kermit = "My friend";
 
-var phrase = 'I don\'t know You'll have to speak with the professor;
+var phrase = 'I don\'t know \n You\'ll have to speak with the professor';
