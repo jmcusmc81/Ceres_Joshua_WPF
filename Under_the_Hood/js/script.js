@@ -10,4 +10,7 @@ console.log(yearBorn);
 alert(yearBorn);
 */
 //Variables
-var age;
+//Defining Variables
+var age; //declaration
+age=32; //definition
+//storage comtainer = value 
