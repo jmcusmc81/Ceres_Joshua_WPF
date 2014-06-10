@@ -18,3 +18,4 @@ var yearOfBirth = 1981; //declaring and defining on the same line.
 //Booleans
 var isStudent = false;
 var firstName = "Kermit";
+var kermit = "My friend";
