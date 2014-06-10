@@ -24,4 +24,4 @@ var phrase = 'I don\'t know \n You\'ll have to speak with the professor';
 
 //Arrays
 
-var mupperNames = ["Kermite", "Miss Piggy", "Gonzo", "RIzzo"];
+var mupperNames = ["Kermite", "Miss Piggy", "Gonzo", "RIzzo"];//0,1,2,3(indexes)
