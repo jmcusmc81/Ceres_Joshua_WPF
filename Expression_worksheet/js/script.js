@@ -21,6 +21,11 @@ var pizzaSlices=8;
 var slicerPerPerson= (pizzaSlices*pizzas)/partyGoer + " Slices per Partygoer";
 console.log(slicerPerPerson);
 
+var partyGoers=20;
+var slicesPerPerson=3.2;
+var leftOverslices=.2;
+var sparkySlices=partyGoers*.2 + " Pizza slices leftover for Sparky";
+console.log(sparkySlices);
 
 
 
