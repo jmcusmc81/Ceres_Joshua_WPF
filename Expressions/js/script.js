@@ -21,7 +21,7 @@ var area = width * height/2;
 console.log(area);
     */
 
-//Expression - Modulo Opertatior
+//Expression - Modulo Operator
 
-var remainder = 32/10;
+var remainder = 32%10;
 console.log(remainder);
