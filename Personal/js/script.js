@@ -3,6 +3,8 @@ var daysYear = 365; //How man calendar days are in a year
 var a=365
 var diapersNeeded = diapers * a; //calculates with that info
 
+alert(diapersNeeded);
+
 
 
 
