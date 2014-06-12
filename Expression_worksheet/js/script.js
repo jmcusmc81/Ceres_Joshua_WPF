@@ -42,7 +42,7 @@ console.log(totalSpendingAverage);
 
 var item=60;
 var discount=.2;
-var tax=.05;
+var tax=1.05;
 
 var discountRate="$"+item*discount + " Discount Rate";
 console.log(discountRate);
@@ -50,7 +50,8 @@ var itemDiscount=12;
 var discountedItem="$"+(item-itemDiscount) + " Price of item after discount without tax";
 console.log(discountedItem);
 
-
+var discountedItemTax= "$" + (item-itemDiscount) * tax + " Price of item after discount with tax";
+console.log(discountedItemTax);
 
 
 
