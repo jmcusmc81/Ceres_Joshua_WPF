@@ -35,8 +35,10 @@ var week3=150;
 var week4=180;
 var week5=200;
 
-var totalSpending=(week1+week2+week3+week4+week5)/5;
+var totalSpending="$"+(week1+week2+week3+week4+week5) + " Over the time frame of five weeks";
 console.log(totalSpending);
+var totalSpendingAverage="$"+(week1+week2+week3+week4+week5)/5 + " Spending Average per week";
+console.log(totalSpendingAverage);
 
 
 
