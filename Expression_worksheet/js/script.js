@@ -40,6 +40,14 @@ console.log(totalSpending);
 var totalSpendingAverage="$"+(week1+week2+week3+week4+week5)/5 + " Spending Average per week";
 console.log(totalSpendingAverage);
 
+var item=60;
+var discount=.2;
+var tax=.05;
+
+var discountRate="$"+item*discount + " Discount Rate";
+console.log(discountRate);
+var itemDiscount= "$"+item-discountRate + " Price of item after discount without tax";
+console.log(itemDiscount);
 
 
 
