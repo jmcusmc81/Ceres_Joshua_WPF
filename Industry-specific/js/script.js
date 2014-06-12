@@ -3,7 +3,7 @@
 //Industry-specific
 
 
-//I have worked as an Aviation and Production Electronics and Instrumentation Technician for most my adult career. I use a lot of Algebra Ohm's Law and Boolean's Law.
+//I have worked as an Aviation and Production Electronics and Instrumentation Technician for most my adult career. I use a lot of Algebra formulas - Ohm's Law and Boolean's Law.
 //These Law's and algebraic formulas help me in my job daily.
 
 //Problem: I have a 480V Motor with 100 Amps Current(I). I need to figure out the Resistance(R) and the Power(W).
@@ -17,7 +17,7 @@ console.log(resistance);
 var power=voltage*amps + " Watts";
 console.log(power);
 
-//Now I am going to revers the Problem and make sure I get the same results for Voltage and Current.
+//Now I am going to reverse the Problem and make sure I get the same results for Voltage and Current.
 
 var watts= 48000;
 var ohms= 4.8;
