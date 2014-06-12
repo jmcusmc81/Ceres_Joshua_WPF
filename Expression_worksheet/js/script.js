@@ -12,7 +12,7 @@ console.log(circ);
 
 var dogYears=7;
 var humanYears=1;
-var dogAge=7*1;
+var dogAge=7*1 + " Years Old";
 console.log(dogAge);
 
 
