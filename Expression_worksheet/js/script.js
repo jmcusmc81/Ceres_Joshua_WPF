@@ -29,7 +29,11 @@ console.log(sparkySlices);
 
 var weeklySpending=[100,120,150,180,200];
 
-
+var week1=100
+var week2=120
+var week3=150
+var week4=180
+var week5=200
 
 
 
