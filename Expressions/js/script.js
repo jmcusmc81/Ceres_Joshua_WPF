@@ -7,10 +7,13 @@ console.log(a)
 */
 
 //Expressions - Age Example
-
+/*
 var yearBorn = 1974;
 var age = 2012 - yearBorn;
 console.log(age);
-/**
- * Created by Josh on 6/10/14.
- */
+*/
+
+//Expresssions - Arithmetic Operators
+
+var width = 4;
+var height = 5;
