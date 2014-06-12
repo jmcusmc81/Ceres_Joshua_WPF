@@ -9,6 +9,7 @@
 //Problem: I have a 480V Motor with 100 Amps Current(I). I need to figure out the Resistance(R) and the Power(W).
 
 var voltage= 480;
+var amps=100;
 
 
 
