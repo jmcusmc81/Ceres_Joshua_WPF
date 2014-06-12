@@ -27,6 +27,7 @@ var leftOverslices=.2;
 var sparkySlices=partyGoers*.2 + " Pizza slices leftover for Sparky";
 console.log(sparkySlices);
 
+var weeklySpending=[100,120,150,180,200];
 
 
 
