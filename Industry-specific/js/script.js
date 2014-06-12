@@ -23,8 +23,8 @@ var watts= 48000;
 var ohms= 4.8;
 var volts= Math.sqrt (watts * ohms) + " Volts";
 console.log(volts);
-var current= Math.sqrt (watts / ohms);
-
+var current= Math.sqrt (watts / ohms) + " Amps";
+console.log(current);
 
 /*
 var y = Math.sqrt(16); // Returns the square root of 16
