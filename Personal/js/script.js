@@ -2,8 +2,8 @@ var diapers = prompt("How many diapers do you change per day? \nPlease enter the
 var daysYear = 365; //How man calendar days are in a year
 var a=365
 var diapersNeeded = diapers * a; //calculates with that info
-
-alert(diapersNeeded);
+var result= "The amount of diapers you will need is " + diapersNeeded + " per year";
+alert(result);
 
 
 
