@@ -6,7 +6,7 @@ console.log(total);
     */
 
 //Expressions - Concatenating Strings
-
+/*
 var firstName="Kermit";
 var lastName="The Frog";
 var fullName=firstName+" "+lastName;
@@ -15,3 +15,9 @@ console.log(fullName);
 /**
  * Created by Josh on 6/12/14.
  */
+
+//Casting
+
+var stringVar="6";
+var result= 7+stringVar;
+console.log(result);

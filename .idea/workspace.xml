@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="34d53bfe-6109-47e8-9c6a-61f63b1fbdd0" name="Default" comment="Updated variable work">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Expressions/Expressions2/js/script.js" afterPath="$PROJECT_DIR$/Expressions/Expressions2/js/script.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="WPF Respository.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -49,8 +48,8 @@
       <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Expressions/Expressions2/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.15350877" vertical-offset="0" max-vertical-offset="684">
-              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="37" />
+            <state vertical-scroll-proportion="0.48245615" vertical-offset="0" max-vertical-offset="684">
+              <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -474,8 +473,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Expressions/Expressions2/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.15350877" vertical-offset="0" max-vertical-offset="684">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="37" />
+        <state vertical-scroll-proportion="0.48245615" vertical-offset="0" max-vertical-offset="684">
+          <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
           <folding />
         </state>
       </provider>
