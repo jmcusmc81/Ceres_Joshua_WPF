@@ -15,6 +15,10 @@ var humanYears=1;
 var dogAge=7*1 + " Years Old";
 console.log(dogAge);
 
+var partyGoer=4;
+var pizzaSlices=8;
+var slicerPerPerson= pizzaSlices/partyGoer + " Slices per Partygoer";
+console.log(slicerPerPerson);
 
 
 
