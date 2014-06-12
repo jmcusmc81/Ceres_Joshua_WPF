@@ -35,7 +35,7 @@ var week3=150;
 var week4=180;
 var week5=200;
 
-var totalSpending=week1+week2+week3+week4+week5;
+var totalSpending=(week1+week2+week3+week4+week5)/5;
 console.log(totalSpending);
 
 
