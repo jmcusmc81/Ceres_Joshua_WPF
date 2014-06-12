@@ -12,7 +12,9 @@ var voltage= 480;
 var amps=100;
 var amps=100;
 var resistance=voltage/amps;
-
+console.log(resistance);
+var power=voltage*amps;
+console.log(power);
 
 
 
