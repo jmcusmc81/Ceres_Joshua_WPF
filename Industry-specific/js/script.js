@@ -19,10 +19,11 @@ console.log(power);
 
 //Now I am going to revers the Problem and make sure I get the same results for Voltage and Current.
 
-var watts= 48000
-var ohmms= 4.8
-var volts=
-
+var watts= 48000;
+var ohmms= 4.8;
+//var volts= Math.sqrt (watts * ohms);
+var y = Math.sqrt(16); // Returns the square root of 16
+console.log(y);
 
 
 
