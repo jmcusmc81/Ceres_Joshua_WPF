@@ -17,7 +17,18 @@ console.log(fullName);
  */
 
 //Casting
+/*
+var areaCode=407;
+var firstPart=203;
+var secPart=4529;
+//(407) 203-4529
+var phoneNo="(" + String(areaCode) + ")" +String(firstPart) + "-" + String(secPart);
 
-var stringVar="6";
-var result= 7+stringVar;
-console.log(result);
+console.log(phoneNo);
+    */
+
+//Expressions Assigning Operators
+
+var a =3;
+a=+4; //a=a+4
+console.log(a);
