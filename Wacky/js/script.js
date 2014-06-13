@@ -14,10 +14,27 @@ var firstHour = c + d;
 var secondHour = d + c + b + " Maximum Rage!!";// Rage at Maximum and well on our way to a Nuclear Meltdown.
 console.log(secondHour);
 //Now that we have reached maximum rage for the hour we are at 5/10 for the rage scale.
-//9:00 A.M.-10:00 A.M.
+//Third Hour 9:00 A.M.-10:00 A.M.
 var thirdHour = 5 + d + d + " Rage back to full"; //Kids are arguing about who did what to make their Mother angry. This is pointless and always makes it worse which almost always results in relapse.
 console.log(thirdHour)
 //Since we just hit back to back rage explosions she will be looking for fuel to keep it going. She is now on a power kick and needs fuel to add to her fire.
+//Fourth Hour 10:00 - 11:00 A.M.
+var fourthHour = 0 + " Ghost Town";
+console.log(fourthHour);
+//Fifth Hour 11:00 A.M. - 12:00 P.M.
+var fifthHour = a + c + c; //This time is lunch time and almost always turn up the heat. Kids leave a mess at the kitchen table. Then she repeats herself several times to clean it up
+console.log(fifthHour);
+
+//This is the period where she makes them go outside untill dinner. This is 12:00 P.M. to 5:00 P.M.
+var sixthThrutenthHour = 5;
+//Dinner time is usually a repeat of lunch but now the kids are dirty.
+//Eleventh Hour 5:00-6:00 P.M.
+var tenthHour = a + b + c +c + c + " Rage to the MAX!!";//Houston we have a liftoff. This is always and entertaining time and by now I am numb to the yelling and screaming.
+console.log(tenthHour);
+//The next two hours is bath time.
+//Fourteenth Hour 8:00 P.M.
+var fourteenthHour = c + c;//This time of night she may be worn out. Its still a 50/50 chance though.
+
 
 
 
