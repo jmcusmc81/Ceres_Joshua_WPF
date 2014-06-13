@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="34d53bfe-6109-47e8-9c6a-61f63b1fbdd0" name="Default" comment="Updated variable work">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Wacky/js/script.js" afterPath="$PROJECT_DIR$/Wacky/js/script.js" />
-    </list>
+    <list default="true" id="34d53bfe-6109-47e8-9c6a-61f63b1fbdd0" name="Default" comment="Updated variable work" />
     <ignored path="WPF Respository.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -25,10 +23,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Industry-specific/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.875" vertical-offset="0" max-vertical-offset="300">
+            <state vertical-scroll-proportion="0.25037935" vertical-offset="0" max-vertical-offset="659">
               <caret line="11" column="159" selection-start-line="11" selection-start-column="159" selection-end-line="11" selection-end-column="159" />
               <folding />
             </state>
@@ -45,10 +43,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="script.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Wacky/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.87847733" vertical-offset="0" max-vertical-offset="780">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="780">
               <caret line="40" column="85" selection-start-line="40" selection-start-column="85" selection-end-line="40" selection-end-column="85" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
@@ -128,38 +126,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="WPF Respository" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WPF Respository" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WPF Respository" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Wacky" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WPF Respository" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WPF Respository" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Wacky" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -430,11 +396,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Industry-specific/index.html">
+    <entry file="file://$PROJECT_DIR$/Wacky/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.875" vertical-offset="0" max-vertical-offset="300">
-          <caret line="11" column="159" selection-start-line="11" selection-start-column="159" selection-end-line="11" selection-end-column="159" />
-          <folding />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="780">
+          <caret line="40" column="85" selection-start-line="40" selection-start-column="85" selection-end-line="40" selection-end-column="85" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#2649#2687#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -446,14 +415,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Wacky/js/script.js">
+    <entry file="file://$PROJECT_DIR$/Industry-specific/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.87847733" vertical-offset="0" max-vertical-offset="780">
-          <caret line="40" column="85" selection-start-line="40" selection-start-column="85" selection-end-line="40" selection-end-column="85" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#2649#2687#0" expanded="false" />
-          </folding>
+        <state vertical-scroll-proportion="0.25037935" vertical-offset="0" max-vertical-offset="659">
+          <caret line="11" column="159" selection-start-line="11" selection-start-column="159" selection-end-line="11" selection-end-column="159" />
+          <folding />
         </state>
       </provider>
     </entry>
