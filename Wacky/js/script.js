@@ -36,11 +36,10 @@ console.log(tenthHour);
 var fourteenthHour = c + c;//This time of night she may be worn out. Its still a 50/50 chance though.
 
 
-var totalRage = ["1", "2", "3, "4"];//0,1,2,3
+var totalRage = [1, 2, 3, 4];//0,1,2,3
 console.log(totalRage);
-var total =
-
-
+var total = totalRage[0] + totalRage[1] + totalRage[2] + totalRage[3] + " Times the rage threshold was reached";
+console.log(total);
 
 
 
