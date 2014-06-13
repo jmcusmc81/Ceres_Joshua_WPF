@@ -6,6 +6,11 @@ var b = 4; //Kids crying
 var c = 3.5; //Repeats herself. This usually takes three times of her repeating herself before she loses it.
 var d = 3; //Kids do not do chores
 var e = 2.5; //I forget to do something that she asked me to do. I am slowly wearing her out on this issue.
+//Once this adds up to 10 watch out!!
+console.log(rage);
+var rageExplosion = 10; //We have reached 10 now run for cover!
+//First hour of the day 7:00 A.M.
+var firstHour =;
 
 
 
