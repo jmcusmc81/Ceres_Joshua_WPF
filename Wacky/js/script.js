@@ -17,6 +17,7 @@ console.log(secondHour);
 //9:00 A.M.-10:00 A.M.
 var thirdHour = 5 + d + d + " Rage back to full"; //Kids are arguing about who did what to make their Mother angry. This is pointless and always makes it worse which almost always results in relapse.
 console.log(thirdHour)
+//Since we just hit back to back rage explosions she will be looking for fuel to keep it going. She is now on a power kick and needs fuel to add to her fire.
 
 
 
