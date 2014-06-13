@@ -36,6 +36,10 @@ console.log(tenthHour);
 var fourteenthHour = c + c;//This time of night she may be worn out. Its still a 50/50 chance though.
 
 
+var totalRage = ["Second", "Third", "Fifth", "Tenth"];//0,1,2,3
+console.log(totalRage);
+
+
 
 
 
