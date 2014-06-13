@@ -13,8 +13,10 @@ var firstHour = c + d;
 //Second hour 8:00 - 9:00 A.M.
 var secondHour = d + c + b + " Maximum Rage!!";// Rage at Maximum and well on our way to a Nuclear Meltdown.
 console.log(secondHour);
-
-
+//Now that we have reached maximum rage for the hour we are at 5/10 for the rage scale.
+//9:00 A.M.-10:00 A.M.
+var thirdHour = 5 + d + d + " Rage back to full"; //Kids are arguing about who did what to make their Mother angry. This is pointless and always makes it worse which almost always results in relapse.
+console.log(thirdHour)
 
 
 
