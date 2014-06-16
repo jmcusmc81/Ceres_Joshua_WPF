@@ -73,8 +73,17 @@ var gpa =48;
     console.log("GPA is too low!");
 }*/
 
-(gpa>2.0) ? console.log("You can graduate!") : console.log("GPA is too low!");
+/*(gpa>2.0) ? console.log("You can graduate!") : console.log("GPA is too low!");*/
 
+var age = 11;
+var book;
+//If the child is under 10, they get Green Eggs and Ham, otherwise they get TIme Machine
+if(age<10){
+    book="Green Eggs and Ham";
+}else{
+    book="The TIme Machine";
+}
+console.log(book);
 /**
  * Created by Josh on 6/16/14.
  */
