@@ -75,11 +75,11 @@ var gpa =48;
 
 /*(gpa>2.0) ? console.log("You can graduate!") : console.log("GPA is too low!");*/
 
-var age = 11;
+var age = 6;
 var book;
 //If the child is under 10, they get Green Eggs and Ham, otherwise they get TIme Machine
 book=(age<10) ? "Green Eggs and Ham" : "The Time Machine";
-}
+
 console.log(book);
 /**
  * Created by Josh on 6/16/14.
