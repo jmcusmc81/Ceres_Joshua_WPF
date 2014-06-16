@@ -34,7 +34,7 @@ if(kidHeight>minHeight){
     */
 
 //Conditional Logic - Logical Operators
-
+/*
 var budget=100;
 var  iPhonePrice=199.99;
 var wonLottery=true;
@@ -54,6 +54,12 @@ if(paycheck>300){
     */
 
 //if the price of our phone is less then our budget AND if our paycheck is over 300
+
+
+//Logical Operators - Ternary Operators
+
+
+
 /**
  * Created by Josh on 6/16/14.
  */
