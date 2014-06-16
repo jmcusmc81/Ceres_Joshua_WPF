@@ -2,13 +2,17 @@
 
 if(sunny){
     goToTheBeach();
+
+    if(warmWater){
+        wearNewSwimSuit();
+    }
+
+
 }else{
     gotToTheMovies();
 }
 
-if(warmWater){
-    wearNewSwimSuit();
-}
+
 /**
  * Created by Josh on 6/16/14.
  */
