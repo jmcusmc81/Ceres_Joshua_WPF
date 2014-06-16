@@ -39,16 +39,19 @@ var budget=300;
 var  iPhonePrice=199.99;
 var paycheck=200;
 
-if(iPhonePrice<budget){
-    console.log("We can buy the phone!");
+if(iPhonePrice<budget && paycheck>300){
+   console.log("We can buy the phone!");
 }else{
     console.log("No phone for you!!");
 }
+/*
 if(paycheck>300){
     console.log("we can buy the phone!");
 }else{
     console.log("No phone for you!!");
 }
+
+    */
 
 //if the price of our phone is less then our budget AND if our paycheck is over 300
 /**
