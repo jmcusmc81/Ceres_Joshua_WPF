@@ -12,7 +12,7 @@ if(sunny){
     gotToTheMovies();
 }
  */
-//Conditional Logic-Relational Expression
+//Conditional Logic-else if
 
 var kidHeight=52;
 var minHeight=48;
@@ -23,12 +23,15 @@ var minHeight=48;
 if(kidHeight>minHeight){
     //code performed if condition is true
     console.log("You can ride the coaster!");
-}else{
+}else if(){
     //code performed if condition is false
 }
 
-    console.log("Sorry kid you got some growing to do");
 
+
+}else{
+    //sorry kid you have growing to do
+    console.log("Sorry kid you got some growing to do");
 }
 /**
  * Created by Josh on 6/16/14.
