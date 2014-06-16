@@ -35,11 +35,11 @@ if(kidHeight>minHeight){
 
 //Conditional Logic - Logical Operators
 
-var budget=300;
+var budget=100;
 var  iPhonePrice=199.99;
 var wonLottery=true;
 
-if(iPhonePrice<budget || wonLottery ===true){
+if(iPhonePrice<budget || wonLottery){
    console.log("We can buy the phone!");
 }else{
     console.log("No phone for you!!");
