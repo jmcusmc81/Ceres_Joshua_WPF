@@ -26,7 +26,7 @@ if(kidHeight>minHeight){
 }
 
 if(kidHeight<minHeight){
-    console.log("Sorry you got some growing to do");
+    console.log("Sorry kid you got some growing to do");
 
 }
 /**
