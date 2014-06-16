@@ -14,7 +14,7 @@ if(sunny){
  */
 //Conditional Logic-Relational Expression
 
-var kidHeight=48;
+var kidHeight=52;
 var minHeight=48;
 //var sneakerLift=2;
 
@@ -23,9 +23,10 @@ var minHeight=48;
 if(kidHeight>minHeight){
     //code performed if condition is true
     console.log("You can ride the coaster!");
+}else{
+    //code performed if condition is false
 }
 
-if(kidHeight<=minHeight){
     console.log("Sorry kid you got some growing to do");
 
 }
