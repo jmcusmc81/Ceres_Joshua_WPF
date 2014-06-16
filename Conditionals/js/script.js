@@ -13,7 +13,7 @@ if(sunny){
 }
  */
 //Conditional Logic-else if
-
+/*
 var kidHeight=46;
 var minHeight=48;
 var wParentHeight=45;
@@ -31,6 +31,16 @@ if(kidHeight>minHeight){
     //sorry kid you have growing to do
     console.log("Sorry kid you got some growing to do!");
 }
+    */
+
+//Conditional Logic - Logical Operators
+
+var budget=300;
+var  iPhonePrice=199.99;
+var paycheck=200;
+
+
+//if the price of our phone is less then our budget
 /**
  * Created by Josh on 6/16/14.
  */
