@@ -57,7 +57,11 @@ if(paycheck>300){
 
 
 //Logical Operators - Ternary Operators
-
+if(condition){
+    do if true;
+}else{
+    do if false;
+}
 
 
 /**
