@@ -6,6 +6,9 @@ if(sunny){
     gotToTheMovies();
 }
 
+if(warmWater){
+    wearNewSwimSuit();
+}
 /**
  * Created by Josh on 6/16/14.
  */
