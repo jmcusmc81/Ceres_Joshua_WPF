@@ -14,8 +14,8 @@ if(sunny){
  */
 //Conditional Logic-Relational Expression
 
-var kidHeight=40;
-var minHeight=48
+var kidHeight=47;
+var minHeight=48;
 
 //if the child is old enough print to the console
 //if the kid height is over 48 inches in height
