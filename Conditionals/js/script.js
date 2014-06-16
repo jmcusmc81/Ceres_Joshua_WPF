@@ -1,5 +1,5 @@
 //Conditionals Week 3
-
+/*
 if(sunny){
     goToTheBeach();
 
@@ -11,14 +11,15 @@ if(sunny){
 }else{
     gotToTheMovies();
 }
-
+ */
 //Conditional Logic
 
 var oldEnough=true;
 
 //if the child is old enough print to the console
-if(){
-
+if(oldEnough){
+    //code performed if condition is true
+    console.log("You can ride the coaster!");
 }
 
 
