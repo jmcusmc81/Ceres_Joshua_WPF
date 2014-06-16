@@ -12,11 +12,12 @@ if(sunny){
     gotToTheMovies();
 }
  */
-//Conditional Logic
+//Conditional Logic-Relational Expression
 
-var oldEnough=false;
+var kidHeight=30;
 
 //if the child is old enough print to the console
+//if the kid height is over 48 inches in height
 if(oldEnough){
     //code performed if condition is true
     console.log("You can ride the coaster!");
