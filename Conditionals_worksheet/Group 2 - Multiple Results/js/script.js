@@ -53,8 +53,8 @@ var bPlus = .89;
 if(studentGrade >= aPlus){
     console.log("You have a 95%, which means you have earned a(n) A+ in the class!")
 }else if (){
-    console.log
+    console.log("You have a 85%, which means you have earned a(n) B in the class!")
 }else{
-    console.log
+    console.log("You have a 90%, which means you have earned a(n) B+ in the class!")
 }
 
