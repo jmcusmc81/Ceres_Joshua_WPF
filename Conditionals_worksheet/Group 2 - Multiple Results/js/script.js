@@ -15,4 +15,9 @@
     //Assume grades are whole numbers that never go below 0 or above 100.
     //Use the FullSail Grade scale.
     //There should be only one print out to the console.
+//Given:
+    //Grade (in percent)
+//Result To Print Out:
+    //“You have a X%, which means you have earned a(n) X in the class!”
 
+//Given is 90%
