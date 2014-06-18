@@ -46,7 +46,7 @@
 
 //Given is 90% = .90
 
-var studentGrade = .88;
+var studentGrade = .93;
 var aPlus = .95;
 var bPlus = .89;
 
