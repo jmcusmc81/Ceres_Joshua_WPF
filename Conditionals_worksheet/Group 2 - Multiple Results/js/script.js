@@ -20,4 +20,28 @@
 //Result To Print Out:
     //“You have a X%, which means you have earned a(n) X in the class!”
 
+//Full Sail
+//Grade Scales
+
+//UNDERGRADUATE
+
+// 95-100 4.0 A+
+// 90-94 3.5 A
+// 85-89 3.0 B+
+// 80-84 2.5 B
+// 76-79 2.0 C+
+// 73-75 1.5 C
+// 70-72 1.0 D
+// 0-69 0.0  F
+
+//GRADUATE
+
+// 95-100 4.0 A+
+// 90-94 3.5 A
+// 85-89 3.0 B+
+// 80-84 2.5 B
+// 73-79 2.0 C
+// 70-72 1.0 D
+// 0-69  0.0 F
+
 //Given is 90%
