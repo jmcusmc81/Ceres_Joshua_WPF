@@ -18,7 +18,15 @@
 //Time of Movie (Assume whole numbers here)
 //Age of the customer
 //Result To Print Out:
-//“The ticket price is X”
+//“The ticket price is X"
 
-var age = 40;
-var time = 2;
+var age = 20;
+var time = 4;
+
+if(age > 55 && time < 5){
+    console.log("The ticket price is $7.00");
+}else if(time >= 3 && age <= 10){
+    console.log("The ticket price is $7.00");
+}else{
+    console.log("The ticket price is $12.00");
+}
