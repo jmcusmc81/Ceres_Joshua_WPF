@@ -2,6 +2,7 @@
 //June 16 2014
 //Conditional Worksheet
 
+//Group 1 Expressions with Conditionals
 
 //Celsius to Fahrenheit converter
 
@@ -20,9 +21,14 @@ var userInput = prompt ("Please enter Temperature");
 console.log(temperatureF);
     */
 
+//Last Chance for Gas!
+
+//A driver has to determine if they can make it across the desert with their current fuel.
+//They are about to past the last gas station for the next 200 miles and they need to determine whether they should stop now for gas or not.
 
 
 
+//Car gets 20 mpg and has a 20 Gallon Tank.
 
 
 
