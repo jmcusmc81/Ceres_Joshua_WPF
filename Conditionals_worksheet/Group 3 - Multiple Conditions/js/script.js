@@ -14,7 +14,11 @@
 //Determine which of the two prices the customer is eligible for.
 
 //Given: age is 40
+
 //Time of Movie (Assume whole numbers here)
 //Age of the customer
 //Result To Print Out:
 //“The ticket price is X”
+
+var age = 40;
+var time = 2;

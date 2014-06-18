@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34d53bfe-6109-47e8-9c6a-61f63b1fbdd0" name="Default" comment="Updated variable work">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Conditionals_worksheet/Group 3 - Multiple Conditions/index.html" afterPath="$PROJECT_DIR$/Conditionals_worksheet/Group 3 - Multiple Conditions/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Conditionals_worksheet/Group 3 - Multiple Conditions/js/script.js" afterPath="$PROJECT_DIR$/Conditionals_worksheet/Group 3 - Multiple Conditions/js/script.js" />
     </list>
     <ignored path="WPF Respository.iws" />
@@ -39,9 +38,11 @@
       <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Conditionals_worksheet/Group 3 - Multiple Conditions/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.27977043" vertical-offset="0" max-vertical-offset="697">
-              <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
-              <folding />
+            <state vertical-scroll-proportion="0.45193687" vertical-offset="0" max-vertical-offset="697">
+              <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+              <folding>
+                <element signature="e#0#38#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -453,6 +454,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.8491379" vertical-offset="189" max-vertical-offset="1050">
           <caret line="52" column="25" selection-start-line="52" selection-start-column="25" selection-end-line="52" selection-end-column="25" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -581,9 +583,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Conditionals_worksheet/Group 3 - Multiple Conditions/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.27977043" vertical-offset="0" max-vertical-offset="697">
-          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
-          <folding />
+        <state vertical-scroll-proportion="0.45193687" vertical-offset="0" max-vertical-offset="697">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#38#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
