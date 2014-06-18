@@ -44,4 +44,9 @@
 // 70-72 1.0 D
 // 0-69  0.0 F
 
-//Given is 90%
+//Given is 90% = .90
+
+var studentGrade = .90;
+var aPlus = .95;
+var bPlus = .85;
+
