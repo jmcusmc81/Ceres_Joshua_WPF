@@ -12,6 +12,11 @@
 //Formula for Celsius to Fahrenheit (°C × 9/5) + 32 = °F
 //Formula for Fahrenheit to Celsius (°F - 32) x 5/9 = °C
 
+var userInputDegrees = prompt ("Please enter F for Fahrenheit or C for Celsius");
+if(F){
+    prompt ("Please enter Temperature");
+}
+
 
 
 
