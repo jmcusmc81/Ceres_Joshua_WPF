@@ -36,10 +36,10 @@ var gasTankHalf = .50; //half a tank minimum needed to make the trip.
 var gasTankCurrent = .40;
 
 if (gasTankCurrent > gasTankHalf){
-    console.log("You are safe to take your trip");
+    console.log("Yes, you can make it without stopping for gas!");
 
 }else{
-    console.log("You are not safe to take your trip. Please stop to refuel")
+    console.log("You only have 40% gallons of gas in your tank, better get gas now while you can!")
 }
 
 
