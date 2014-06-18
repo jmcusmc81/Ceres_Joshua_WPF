@@ -56,5 +56,8 @@ if(studentGrade >= aPlus){
     console.log("You have a 85%, which means you have earned a(n) B in the class!")
 }else{
     console.log("You have a 90%, which means you have earned a(n) B+ in the class!")
+
 }
 
+
+//Tested all 3 print outs and they all worked

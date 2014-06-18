@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34d53bfe-6109-47e8-9c6a-61f63b1fbdd0" name="Default" comment="Updated variable work">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Conditionals_worksheet/Group 3 - Multiple Conditions/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Conditionals_worksheet/Group 3 - Multiple Conditions/js/script.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Conditionals_worksheet/Group 1 - Expressions with Conditionals/index.html" afterPath="$PROJECT_DIR$/Conditionals_worksheet/Group 1 - Expressions with Conditionals/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Conditionals_worksheet/Group 2 - Multiple Results/index.html" afterPath="$PROJECT_DIR$/Conditionals_worksheet/Group 2 - Multiple Results/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Conditionals_worksheet/Group 2 - Multiple Results/js/script.js" afterPath="$PROJECT_DIR$/Conditionals_worksheet/Group 2 - Multiple Results/js/script.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="WPF Respository.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,23 +31,21 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Conditionals_worksheet/Group 2 - Multiple Results/index.html">
+        <entry file="file://$PROJECT_DIR$/Conditionals_worksheet/Group 3 - Multiple Conditions/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="240">
-              <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+            <state vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="240">
+              <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Conditionals_worksheet/Group 2 - Multiple Results/js/script.js">
+        <entry file="file://$PROJECT_DIR$/Conditionals_worksheet/Group 3 - Multiple Conditions/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.74175036" vertical-offset="173" max-vertical-offset="960">
-              <caret line="48" column="22" selection-start-line="48" selection-start-column="22" selection-end-line="48" selection-end-column="22" />
-              <folding>
-                <element signature="e#0#38#0" expanded="false" />
-              </folding>
+            <state vertical-scroll-proportion="0.10760402" vertical-offset="0" max-vertical-offset="697">
+              <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -80,10 +83,12 @@
         <option value="$PROJECT_DIR$/Conditionals/js/script.js" />
         <option value="$PROJECT_DIR$/Conditionals_worksheet/index.html" />
         <option value="$PROJECT_DIR$/Conditionals_worksheet/js/script.js" />
-        <option value="$PROJECT_DIR$/Conditionals_worksheet/Group 2 - Multiple Results/index.html" />
-        <option value="$PROJECT_DIR$/Conditionals_worksheet/Group 1 - Expressions with Conditionals/index.html" />
         <option value="$PROJECT_DIR$/Conditionals_worksheet/Group 1 - Expressions with Conditionals/js/script.js" />
         <option value="$PROJECT_DIR$/Conditionals_worksheet/Group 2 - Multiple Results/js/script.js" />
+        <option value="$PROJECT_DIR$/Conditionals_worksheet/Group 2 - Multiple Results/index.html" />
+        <option value="$PROJECT_DIR$/Conditionals_worksheet/Group 1 - Expressions with Conditionals/index.html" />
+        <option value="$PROJECT_DIR$/Conditionals_worksheet/Group 3 - Multiple Conditions/index.html" />
+        <option value="$PROJECT_DIR$/Conditionals_worksheet/Group 3 - Multiple Conditions/js/script.js" />
       </list>
     </option>
   </component>
@@ -151,7 +156,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Group 2 - Multiple Results" />
+              <option name="myItemId" value="Group 3 - Multiple Conditions" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -169,7 +174,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Group 2 - Multiple Results" />
+              <option name="myItemId" value="Group 3 - Multiple Conditions" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -526,26 +531,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Conditionals_worksheet/Group 1 - Expressions with Conditionals/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.15601783" vertical-offset="0" max-vertical-offset="673">
-          <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Prompts and Alerts/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.23672883" vertical-offset="0" max-vertical-offset="697">
           <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Conditionals_worksheet/Group 2 - Multiple Results/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="240">
-          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
           <folding />
         </state>
       </provider>
@@ -560,13 +549,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Conditionals_worksheet/Group 2 - Multiple Results/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="240">
+          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Conditionals_worksheet/Group 1 - Expressions with Conditionals/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="240">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Conditionals_worksheet/Group 2 - Multiple Results/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.74175036" vertical-offset="173" max-vertical-offset="960">
-          <caret line="48" column="22" selection-start-line="48" selection-start-column="22" selection-end-line="48" selection-end-column="22" />
+        <state vertical-scroll-proportion="0.021520803" vertical-offset="0" max-vertical-offset="1005">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="5" selection-end-column="31" />
           <folding>
             <element signature="e#0#38#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Conditionals_worksheet/Group 3 - Multiple Conditions/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="240">
+          <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Conditionals_worksheet/Group 3 - Multiple Conditions/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.10760402" vertical-offset="0" max-vertical-offset="697">
+          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+          <folding />
         </state>
       </provider>
     </entry>
