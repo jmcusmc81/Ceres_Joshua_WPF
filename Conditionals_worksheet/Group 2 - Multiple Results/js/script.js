@@ -46,7 +46,11 @@
 
 //Given is 90% = .90
 
-var studentGrade = .90;
-var aPlus = .95;
-var bPlus = .85;
+var studentGrade = .95;
+var aPlus = .94;
+var bPlus = .89;
+
+if(studentGrade > aPlus){
+    console.log("You have a 95%, which means you have earned a(n) A+ in the class!")
+}
 
