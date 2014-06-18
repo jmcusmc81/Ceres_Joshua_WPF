@@ -28,7 +28,11 @@ console.log(temperatureF);
 
 
 
-//Car gets 20 mpg and has a 20 Gallon Tank.
+//Car gets 20 mpg and has a 20 Gallon Tank. 20x20=400
+
+//so if 50% > okay ; else stop
+
+var gasTank = .50
 
 
 
