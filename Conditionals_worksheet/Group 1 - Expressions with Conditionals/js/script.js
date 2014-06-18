@@ -21,6 +21,8 @@ var userInput = prompt ("Please enter Temperature");
 console.log(temperatureF);
     */
 
+//I could not figure out how to get his info into a promt and make it work
+
 //Last Chance for Gas!
 
 //A driver has to determine if they can make it across the desert with their current fuel.
