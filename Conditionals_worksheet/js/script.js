@@ -33,7 +33,7 @@ console.log(temperatureF);
 //so if 50% > okay ; else stop
 
 var gasTankHalf = .50; //half a tank minimum needed to make the trip.
-var gasTankCurrent = .60;
+var gasTankCurrent = .40;
 
 if (gasTankCurrent > gasTankHalf){
     console.log("You are safe to take your trip");
