@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34d53bfe-6109-47e8-9c6a-61f63b1fbdd0" name="Default" comment="Updated variable work">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week 3: Conditionals Assignment/Personal/index.html" afterPath="$PROJECT_DIR$/Week 3: Conditionals Assignment/Personal/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week 3: Conditionals Assignment/Personal/js/script.js" afterPath="$PROJECT_DIR$/Week 3: Conditionals Assignment/Personal/js/script.js" />
     </list>
     <ignored path="WPF Respository.iws" />
@@ -39,8 +38,8 @@
       <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Week 3: Conditionals Assignment/Personal/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.31290743" vertical-offset="0" max-vertical-offset="767">
-              <caret line="18" column="38" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+            <state vertical-scroll-proportion="0.21512386" vertical-offset="0" max-vertical-offset="767">
+              <caret line="13" column="79" selection-start-line="13" selection-start-column="79" selection-end-line="13" selection-end-column="79" />
               <folding>
                 <element signature="e#0#38#0" expanded="false" />
               </folding>
@@ -552,8 +551,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Week 3: Conditionals Assignment/Personal/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.31290743" vertical-offset="0" max-vertical-offset="767">
-          <caret line="18" column="38" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+        <state vertical-scroll-proportion="0.21512386" vertical-offset="0" max-vertical-offset="767">
+          <caret line="13" column="79" selection-start-line="13" selection-start-column="79" selection-end-line="13" selection-end-column="79" />
           <folding>
             <element signature="e#0#38#0" expanded="false" />
           </folding>
