@@ -13,3 +13,12 @@ Industry
 
 
 var webInitialFolders = ["css","images","js"];
+
+for(var i = 0; i<webInitialFolders.length; i++)
+
+if(webInitialFolders[i] === "css"){
+    console.log ("Good job! You have the css folder." + alert("Good job! You have the css folder."));
+
+}else{
+    console.log("You are missing the css folder");
+}
