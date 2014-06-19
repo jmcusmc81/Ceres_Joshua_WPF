@@ -12,3 +12,8 @@
 
 var today = new Date();
 console.log(today);
+
+var userInput = prompt("Please enter your birth date \n MM/DD/Year");
+
+var age = today - userInput;
+alert(age);
