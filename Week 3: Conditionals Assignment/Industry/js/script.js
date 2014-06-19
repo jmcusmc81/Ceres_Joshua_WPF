@@ -30,3 +30,11 @@ for(var d = 0; d<webInitialFolders.length; d++)
     }else{
         console.log("You are missing the images folder");
     }
+for(var e = 0; e<webInitialFolders.length; e++)
+
+    if(webInitialFolders[e] === "js"){
+        console.log ("Good job! You have the js folder." + alert("Good job! You have the js folder."));
+
+    }else{
+        console.log("You are missing the js folder");
+    }

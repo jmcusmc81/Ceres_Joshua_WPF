@@ -38,8 +38,8 @@
       <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Week 3: Conditionals Assignment/Industry/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.43024772" vertical-offset="0" max-vertical-offset="767">
-              <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.7040417" vertical-offset="0" max-vertical-offset="767">
+              <caret line="38" column="43" selection-start-line="38" selection-start-column="43" selection-end-line="38" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -476,6 +476,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.4172767" vertical-offset="0" max-vertical-offset="750">
           <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -609,8 +612,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Week 3: Conditionals Assignment/Industry/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.43024772" vertical-offset="0" max-vertical-offset="767">
-          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.7040417" vertical-offset="0" max-vertical-offset="767">
+          <caret line="38" column="43" selection-start-line="38" selection-start-column="43" selection-end-line="38" selection-end-column="43" />
           <folding />
         </state>
       </provider>
