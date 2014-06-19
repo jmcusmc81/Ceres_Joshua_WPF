@@ -11,4 +11,10 @@
 //My Given energy level is 10 before we go to eat for both of us. (Whatever she is feeling I feel the same way.)
 
 var energyLevel = 10; //Given
-var dancing = (enegryLevel > 5); //Energy level needs to be higher then 5 for our night out after dinner.
+var dancing = (energyLevel > 5); //Energy level needs to be higher then 5 for our night out after dinner.
+
+if(dancing){
+    console.log("Lets have some fun!");
+}else{
+    console.log("Lets go for a walk");
+}
