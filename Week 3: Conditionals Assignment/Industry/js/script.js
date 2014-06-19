@@ -40,3 +40,12 @@ for(var e = 0; e<webInitialFolders.length; e++)
     }
 
 var webInitialFiles = ["index.html","script.js"];
+
+for(var f = 0; f<webInitialFiles.length; f++)
+
+    if(webInitialFiles[f] === "index.html"){
+        console.log ("Good job! You have the index.html folder." + alert("Good job! You have the index.html folder."));
+
+    }else{
+        console.log("You are missing the index.html folder");
+    }
