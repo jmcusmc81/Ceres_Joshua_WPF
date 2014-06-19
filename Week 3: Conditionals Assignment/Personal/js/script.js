@@ -14,16 +14,17 @@ var energyLevel = 5; //Given
 var dancing = (energyLevel > 5); //Energy level needs to be higher then 5 for a night out after dinner.
 
 if(dancing){
-    console.log("Lets have some fun!"); //After a nice dinner its nice to go dancing with the wife.
+    console.log("Lets go dancing!"); //After a nice dinner its nice to go dancing with the wife.
 }else{
     console.log("Lets go for a walk.");//Sometimes after a nice dinner we are to tired and just want to go for a walk.
 }
     */
+
 //Ternary
 //Going to change the conditional statement to ternary operators.
 
-var energyLevel = 5;
+var energyLevel = 6;
 var dancing;
 
-dancing = (energyLevel > 5) ? "Lets have some fun!" : "Lets go for a walk.";
+dancing = (energyLevel > 5) ? "Lets go dancing!" : "Lets go for a walk.";
 console.log(dancing);
