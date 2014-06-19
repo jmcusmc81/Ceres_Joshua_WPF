@@ -56,4 +56,5 @@ for(var g = 0; g<webInitialFiles.length; g++)
 
     }else{
         console.log("You are missing the script.js folder");
+
     }
