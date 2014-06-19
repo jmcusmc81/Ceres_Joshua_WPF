@@ -14,6 +14,10 @@ var today = new Date();
 console.log(today);
 
 var userInput = prompt("Please enter your birth date \n MM/DD/Year");
+var date = 01011979;
 
-var age = today - userInput;
-alert(age);
+if(userInput > date){
+    console.log("Boy you are Old! You better get some adult diapers." + alert ("Boy you are Old! You better get some adult diapers.") );
+}else{
+    console.log("You are young and still have some good times ahead!" + alert ("You are young and still have some good times ahead!") );
+}
