@@ -9,3 +9,6 @@
  */
 
 //I am going to attempt some prompts for this part of the assignment.
+
+var today = new Date();
+console.log(today);
