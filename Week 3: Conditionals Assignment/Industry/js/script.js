@@ -22,3 +22,11 @@ if(webInitialFolders[i] === "css"){
 }else{
     console.log("You are missing the css folder");
 }
+for(var d = 0; d<webInitialFolders.length; d++)
+
+    if(webInitialFolders[d] === "mages"){
+        console.log ("Good job! You have the images folder." + alert("Good job! You have the images folder."));
+
+    }else{
+        console.log("You are missing the images folder");
+    }
