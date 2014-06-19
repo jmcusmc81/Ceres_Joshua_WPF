@@ -12,7 +12,7 @@
 
 
 
-var energyLevel = 1; //Given
+var energyLevel = 4; //Given
 var dancing = (energyLevel > 5); //Energy level needs to be higher then 5 for a night out after dinner.
 var wEnergyDrink = 2; //Boosts our energy levels.
 
