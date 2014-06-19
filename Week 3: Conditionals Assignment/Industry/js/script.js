@@ -9,4 +9,7 @@ Industry
  */
 
 //I am going to write a code if and else statement for checking to make sure all folders and files are present for initial setup of a web assignment
-//These folders are "css","images","js". The files are "index.html", and "script.js".
+//These folders are "css","images","js". The files are "index.html", and "script.js"
+
+
+var webInitialFolders = ["css","images","js"];
