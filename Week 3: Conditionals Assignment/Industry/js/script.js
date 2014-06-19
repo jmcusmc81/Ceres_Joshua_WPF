@@ -49,3 +49,11 @@ for(var f = 0; f<webInitialFiles.length; f++)
     }else{
         console.log("You are missing the index.html folder");
     }
+for(var g = 0; g<webInitialFiles.length; g++)
+
+    if(webInitialFiles[g] === "scipt.js"){
+        console.log ("Good job! You have the script.js folder." + alert("Good job! You have the script.js folder."));
+
+    }else{
+        console.log("You are missing the script.js folder");
+    }
