@@ -38,3 +38,5 @@ for(var e = 0; e<webInitialFolders.length; e++)
     }else{
         console.log("You are missing the js folder");
     }
+
+var webInitialFiles = ["index.html","script.js"];
