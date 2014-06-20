@@ -36,3 +36,5 @@ if(age > 35){
 //This took me quite awhile. I get sidetracked so much while trying to complete assignments.
 //This assignment took me all day. Having children home and a newborn makes this very hard to do this class.
 //Hard to keep my train of thought in my household. I have to go over the material a few times to absorb the information again.
+
+//All in all this was a fun project and took a huge amount of time. I get side tracked to easily and tr to make the work harder then it really is.
