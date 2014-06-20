@@ -24,8 +24,10 @@ alert("Your age is " + age + " years old");
 
 
 
-if(age > ){
+if(age > 35){
     console.log("Boy you are Old! You better get some adult diapers." + alert ("Boy you are Old! You better get some adult diapers.") );
-}else{
+}else if(age < 18){
     console.log("You are young and still have some good times ahead!" + alert ("You are young and still have some good times ahead!") );
+}else{
+    
 }
