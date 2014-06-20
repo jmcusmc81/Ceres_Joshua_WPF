@@ -10,19 +10,19 @@
 
 //I am going to attempt some prompts for this part of the assignment.
 
-var d = new Date();
+var d = new Date();//Trying out some new code from w3schools
 console.log(d);
 
-var date = d.getFullYear();
+var date = d.getFullYear();//I want to get the year and then subtract the userInput from the year to get age
 console.log(date);
 
-var userInput = prompt("Please enter your birth date \n Year only");
+var userInput = prompt("Please enter your birth date \n Year only");//propmt to get the year the user is born
 
-var age = date - userInput;
-alert("Your age is " + age + " years old");
+var age = date - userInput;//Now I am subtracting userInput from current year
+alert("Your age is " + age + " years old");//Now we tell the user his/her age
 
 
-
+//I want to make this if,else if, else statement and conditions have a funny result.
 
 if(age > 35){
     console.log("Boy you are Old! You better get some adult diapers." + alert ("Boy you are Old! You better get some adult diapers.") );
@@ -31,3 +31,8 @@ if(age > 35){
 }else{
     console.log("You are young and still have some good times ahead!" + alert ("You are young and still have some good times ahead!") );
 }
+
+
+//This took me quite awhile. I get sidetracked so much while trying to complete assignments.
+//This assignment took me all day. Having children home and a newborn makes this very hard to do this class.
+//Hard to keep my train of thought in my household. I have to go over the material a few times to absorb the information again.
