@@ -22,3 +22,8 @@ function calculateArea(w, h )  //w = 5 and h = 6 , parameters
 
 
 //Problem 1 Calculate the circumference of a circle.
+
+//c = 2x pi x r  //Circumference formula
+//Given will be Radius which 5
+
+var r = 5; //Given
