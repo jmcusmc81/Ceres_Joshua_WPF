@@ -9,7 +9,7 @@
 //Calculate the Area of a Rectangle
 var width = 5; //Given
 var height = 6; //Given
-var area = calculateArea(width, height);
+var area = calculateArea(width, height); //Argument
 console.log("The area of a rectangle is " + area);
 
 function calculateArea(w, h )  //w = 5 and h = 6 , parameters
@@ -17,3 +17,5 @@ function calculateArea(w, h )  //w = 5 and h = 6 , parameters
     return w *h; //code to be executed
 }
 
+//Identifiers, in the function definition, are called parameters.
+//Values received by the function, when the function is invoked, are called arguments. Example - var x = myFunction(4, 3)
