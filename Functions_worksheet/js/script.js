@@ -12,8 +12,8 @@ var height = 6; //Given
 var area = calculateArea(width, height);
 console.log("The area of a rectangle is " + area);
 
-function calculateArea(w, h )  //w = 5 and h = 6
+function calculateArea(w, h )  //w = 5 and h = 6 , parameters
 {
-    return w *h;
+    return w *h; //code to be executed
 }
 
