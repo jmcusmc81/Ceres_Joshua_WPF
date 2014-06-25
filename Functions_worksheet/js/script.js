@@ -81,8 +81,9 @@ Problem 2
 
 var w = 100; // Given is the weight of the animal
 var s = 8.7; // AMount of stings needed to kill an animal
+var f = s * w;
 var x = beeStings(w, s); //Argument
-
+console.log ("The amount of bee stings need to kill an animal of " + f + " pounds is "+ x);
 function beeStings(w, s){ //Parameters
-    
+    return w * s; //Code to perform and return
 }
