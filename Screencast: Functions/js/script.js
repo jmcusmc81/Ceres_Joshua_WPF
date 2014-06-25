@@ -32,3 +32,10 @@ funcName(argument1, argument2);
 function funcName(parameter1, parameter2){
     //code that function runs
 }
+
+calcArea(30, 20);
+
+function calcArea(w, h){  //w=30, h=20
+    var area = w * h;
+    console.log(area);
+}
