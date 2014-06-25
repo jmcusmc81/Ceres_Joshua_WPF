@@ -26,3 +26,9 @@ function calcArea(){
 }
 
 calcArea();
+
+funcName(argument1, argument2);
+
+function funcName(parameter1, parameter2){
+    //code that function runs
+}
