@@ -19,3 +19,6 @@ function calculateArea(w, h )  //w = 5 and h = 6 , parameters
 
 //Identifiers, in the function definition, are called parameters.
 //Values received by the function, when the function is invoked, are called arguments. Example - var x = myFunction(4, 3)
+
+
+//Problem 1 Calculate the circumference of a circle.
