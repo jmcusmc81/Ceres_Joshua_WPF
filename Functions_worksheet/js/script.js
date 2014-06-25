@@ -79,3 +79,6 @@ Problem 2
 // stings x weight = how many stings it would take to kill an animal of that weight.
 
 
+var w = 100; // Given is the weight of the animal
+var s = 8.7; // AMount of stings needed to kill an animal
+var x = beeStings(w, s); //Argument
