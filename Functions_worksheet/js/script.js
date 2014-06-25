@@ -27,3 +27,8 @@ function calculateArea(w, h )  //w = 5 and h = 6 , parameters
 //Given will be Radius which 5
 
 var r = 5; //Given
+var c = circumference(2 * pi * r);//Argument
+
+function circumference(r){
+    
+}
