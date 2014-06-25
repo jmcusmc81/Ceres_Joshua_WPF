@@ -6,3 +6,13 @@
 //Functions Worksheet
 
 
+//Calculate the Area of a Rectangle
+var width = 5; //Given
+var height = 6; //Given
+var area = calculateArea(width, height);
+console.log("The area of a rectangle is " + area);
+
+function calculateArea(w, h )
+{
+    return w *h;
+}
