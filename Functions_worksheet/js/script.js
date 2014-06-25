@@ -46,7 +46,7 @@ var c = circumference(pi, r);//Argument
 console.log("The circumference of the circle is " +c);
 
 function circumference(r, pi){
-    return (r * pi) * 2;
+    return (r * pi) * 2; // Code to perform and return
 
 }
 //It should print out 31.4 for the answer
@@ -82,3 +82,7 @@ Problem 2
 var w = 100; // Given is the weight of the animal
 var s = 8.7; // AMount of stings needed to kill an animal
 var x = beeStings(w, s); //Argument
+
+function beeStings(w, s){ //Parameters
+    
+}
