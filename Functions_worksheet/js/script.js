@@ -75,6 +75,7 @@ Problem 2
 
  */
 
-
+// 8.7 bee stings per 1 lb
+// stings x weight = how many stings it would take to kill an animal of that weight.
 
 
