@@ -28,6 +28,7 @@ function calculateArea(w, h )  //w = 5 and h = 6 , parameters
 
 var r = 5; //Given
 var c = circumference(2 * pi * r);//Argument
+console.log("The circumference of the circle is " +c);
 
 function circumference(r){
     return c
