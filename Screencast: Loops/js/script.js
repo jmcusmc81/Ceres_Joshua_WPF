@@ -6,9 +6,9 @@
 //Screencast: Loops
 
 
-var b = 10;
+var b = 10;//setups the index
 
-while (b>0){
+while (b>0){  //checks the condition
     console.log(b + " kegs on the wall");
-    b--;
+    b--; //incremenets of decrements the index
 }
