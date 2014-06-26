@@ -20,3 +20,8 @@ function birthdayParty1(){ //Parameters are empty for now
 }
 
 birthdayParty1()//Invoke
+
+//Now I am going to add and argument
+
+var budget = 300;
+birthdayParty1(budget);
