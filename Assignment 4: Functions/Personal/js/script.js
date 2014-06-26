@@ -45,5 +45,14 @@ if(birthdayParty1 < birthdayParty2){
 }else{
     alert("You are not within your budget to have the birthday party");
     console.log("You are not within your budget to have the birthday party");
+
 }
+
+//Adding more parameters and arguments
+
+var birthdayParameters = birthdayParty3(40, 100, 100);
+
+
+
+
 
