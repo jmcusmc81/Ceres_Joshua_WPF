@@ -59,4 +59,4 @@ function birthdayParty3(cake, venue, presents){//Parameters
 }
 
 
-
+console.log("The total cost of your birthday party is " + birthdayParameters + " dollars");
