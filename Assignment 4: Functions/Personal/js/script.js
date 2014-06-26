@@ -41,8 +41,9 @@ console.log(finalCost + " dollars is what you have left after the money is spent
 
 if(birthdayParty1 < birthdayParty2){
     alert("You are within your budget to have the birthday party");
-
+    console.log("You are within your budget to have the birthday party");
 }else{
     alert("You are not within your budget to have the birthday party");
+    console.log("You are not within your budget to have the birthday party");
 }
 
