@@ -12,3 +12,12 @@ while (b>0){  //checks the condition
     console.log(b + " kegs on the wall");
     b--; //incremenets of decrements the index
 }
+
+//Do while Loop
+
+var c = 10;
+
+do {
+    console.log(c + " kegs on the wall");
+}
+while(c>0);
