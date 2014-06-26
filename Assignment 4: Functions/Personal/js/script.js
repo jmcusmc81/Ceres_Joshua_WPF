@@ -50,9 +50,13 @@ if(birthdayParty1 < birthdayParty2){
 
 //Adding more parameters and arguments
 
-var birthdayParameters = birthdayParty3(40, 100, 100);
+var birthdayParameters = birthdayParty3(40, 100, 100);//Argument
 
-
+function birthdayParty3(cake, venue, presents){//Parameters
+    var totalCost = cake + venue + presents;
+    return totalCost;
+    console.log ("The total cost of your birthday party is " + totalCost + " dollars");
+}
 
 
 
