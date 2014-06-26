@@ -11,10 +11,12 @@
 
 //Named Function
 
-function birthdayParty1(){
+function birthdayParty1(){ //Parameters are empty for now
     var cake = 40;
     var venue = 100;
     var presents = 100;
-    var totalCost = cake + venue + presents;
+    var totalCost = cake + venue + presents;//Code to run
     console.log(totalCost + " dollars is the total cost of the party");
 }
+
+birthdayParty1()//Invoke
