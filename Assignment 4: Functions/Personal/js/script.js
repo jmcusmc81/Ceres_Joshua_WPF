@@ -14,4 +14,5 @@
 function birthdayParty1(){
     var cake = 40;
     var venue = 100;
+    var presents = 100;
 }
