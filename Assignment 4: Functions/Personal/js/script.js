@@ -39,7 +39,7 @@ console.log(finalCost + " dollars is what you have left after the money is spent
 
 //Going to add a conditional statement to let the user knows if its in the budget range to go to the party
 
-if(birthdayParty1 < budget){
+if(birthdayParty1 < birthdayParty2){
     alert("You are within your budget to have the birthday party");
 
 }else{
