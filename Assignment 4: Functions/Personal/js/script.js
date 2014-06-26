@@ -16,4 +16,5 @@ function birthdayParty1(){
     var venue = 100;
     var presents = 100;
     var totalCost = cake + venue + presents;
+    console.log(totalCost + " dollars is the total cost of the party");
 }
