@@ -24,15 +24,15 @@ birthdayParty1()//Invoke
 //Now I am going to add and argument
 
 var budget = 300;
-birthdayParty1(budget);//Argument
-var finalCost = birthdayParty1(budget - totalCost);
 
-function birthdayParty1(){ //Parameters are empty for now
+var finalCost = birthdayParty2(300);
+
+function birthdayParty2(budget){ //Parameter
     var cake = 40;
     var venue = 100;
     var presents = 100;
     var totalCost = cake + venue + presents;//Code to run
-    console.log(totalCost + " dollars is the total cost of the party");
-    return totalCost;
+    var finalCost = budget - totalCost;//Code to run then return
+    return finalCost;
 }
-console.log(finalCost);
+console.log(finalCost + " dollars is what you have left after the money is spent on everything for the party");
