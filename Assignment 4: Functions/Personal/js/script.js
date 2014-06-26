@@ -36,3 +36,13 @@ function birthdayParty2(budget){ //Parameter
     return finalCost;
 }
 console.log(finalCost + " dollars is what you have left after the money is spent on everything for the party");
+
+//Going to add a conditional statement to let the user knows if its in the budget range to go to the party
+
+if(birthdayParty1 < budget){
+    alert("You are within your budget to have the birthday party");
+
+}else{
+    alert("You are not within your budget to have the birthday party");
+}
+
