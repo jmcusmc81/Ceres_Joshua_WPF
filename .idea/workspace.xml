@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34d53bfe-6109-47e8-9c6a-61f63b1fbdd0" name="Default" comment="Updated variable work">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ceres_Joshua_Assignment_4_Functions/Industry/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Ceres_Joshua_Assignment_4_Functions/Industry/js/script.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Assignment 4: Functions/Personal/index.html" afterPath="$PROJECT_DIR$/Ceres_Joshua_Assignment_4_Functions/Personal/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Assignment 4: Functions/Personal/js/script.js" afterPath="$PROJECT_DIR$/Ceres_Joshua_Assignment_4_Functions/Personal/js/script.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Ceres_Joshua_Assignment_4_Functions/Industry/js/script.js" afterPath="$PROJECT_DIR$/Ceres_Joshua_Assignment_4_Functions/Industry/js/script.js" />
     </list>
     <ignored path="WPF Respository.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -64,8 +60,8 @@
       <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Ceres_Joshua_Assignment_4_Functions/Industry/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0982962" vertical-offset="0" max-vertical-offset="763">
-              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.17693315" vertical-offset="0" max-vertical-offset="763">
+              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -766,8 +762,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Ceres_Joshua_Assignment_4_Functions/Industry/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0982962" vertical-offset="0" max-vertical-offset="763">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.17693315" vertical-offset="0" max-vertical-offset="763">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
         </state>
       </provider>

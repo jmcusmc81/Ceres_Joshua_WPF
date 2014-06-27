@@ -5,3 +5,7 @@
 //Wed June 26, 2014
 //Assignment 4:Functions
 
+//Going to focus on username, password and security input. That seems like it would be a big part of my job in my industry.
+//I am having to login to every site I go on it seem like.
+//Its quite annoying honestly and I forget my passwords and usernames all the time.
+
