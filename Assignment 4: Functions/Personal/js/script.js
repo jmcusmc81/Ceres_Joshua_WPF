@@ -94,6 +94,9 @@ var birthdayParty5 = function(budget, b){
     return deductedCost;
 }
 
+var b = birthdayParty5(300,anon1);
+console.log(b + " dollars is the amount you have after party costs are deducted from budget");
+
 
 
 
