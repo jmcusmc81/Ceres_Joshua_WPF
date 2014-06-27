@@ -85,7 +85,8 @@ var birthdayParty4 = function(cake, venue, presents){
     return partyCost;
 }
 
-
+var anon1 = birthdayParty4(40,200,150);
+console.log(anon1 + " dollars is the cost of your party");
 
 
 
