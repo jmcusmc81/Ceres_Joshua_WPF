@@ -69,5 +69,26 @@ if (budget > birthdayParameters){
 
 //Anonymous Functions
 
+//Example
+//var functionName = function(){ //Defining
+        //code the function runs
+// }
+
+
+//Var a = functionName ( ); //Invoking
+
+//console.log(a);
+//Example ended
+
+var birthdayParty4 = function(cake, venue, presents){
+    
+}
+
+
+
+
+
+
+
 
 
