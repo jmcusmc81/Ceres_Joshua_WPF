@@ -9,3 +9,8 @@
 //I am having to login to every site I go on it seem like.
 //Its quite annoying honestly and I forget my passwords and usernames all the time.
 
+var userLogin = prompt("Please enter your Username");
+
+while(userLogin===""){
+    userLogin = prompt("Please enter you Username to continue");
+}
