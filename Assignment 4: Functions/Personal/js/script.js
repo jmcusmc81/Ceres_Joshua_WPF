@@ -89,14 +89,21 @@ var anon1 = birthdayParty4(40,200,150); //Invoking
 console.log(anon1 + " dollars is the cost of your party");
 
 
-var birthdayParty5 = function(budget, b){
-    var deductedCost = budget - b;
+var birthdayParty5 = function(budget, b){ //Defining
+    var deductedCost = budget - b; //Code to run
     return deductedCost;
 }
 
-var b = birthdayParty5(300,anon1);
-console.log(b + " dollars is the amount you have after party costs are deducted from budget");
+var b = birthdayParty5(300,anon1);// Invoking
+console.log(b + " dollars is the amount you have after party costs are deducted from budget"); //Print out the return sum of the code that was run
 
 
+//Else if
 
+if (anon1 > budget){
+    console.log("Great news!! You have enough for the party!!")
+
+}else if{
+    
+}
 
