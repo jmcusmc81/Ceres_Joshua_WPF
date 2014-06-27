@@ -32,3 +32,4 @@ while (isNaN(securityInput)){ //Is not a number
 console.log(securityInput);
 
 //Everything checked out fine with minor hiccups. I forgot to double parenthesis the -- (isNan(   )) -- which was giving me and error when it went to console.
+
