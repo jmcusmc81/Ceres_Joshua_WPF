@@ -17,3 +17,10 @@ var listening = 2;
 var fighting = 2;
 var repeat = 2;
 
+var movies = 6;
+
+function movieYesorNO(){
+    var movieDecision = chores + listening + fighting + repeat;
+    console.log(movieDecision);
+}
+movieYesorNO();
