@@ -18,3 +18,8 @@ while(userLogin===""){
 console.log(userLogin);
 
 var userPassword = prompt("Please enter your password");
+
+while(userPassword===""){
+    userPassword = prompt("Please enter your password to continue");
+}
+console.log(userPassword);
