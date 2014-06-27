@@ -99,11 +99,15 @@ console.log(b + " dollars is the amount you have after party costs are deducted 
 
 
 //Else if
-
+var grandparentsBonus = 100;
 if (anon1 > budget){
     console.log("Great news!! You have enough for the party!!")
 
-}else if{
-    
+}else if (grandparentsBonus + budget > anon1){
+
+    console.log("You have enough money for the party with the help of the grandparents");
+}else{
+    console.log("Sorry you do not have enough money for the party");
 }
+
 
