@@ -16,11 +16,14 @@ var chores = 2;
 var listening = 2;
 var fighting = 2;
 var repeat = 2;
+//I purposely put the variables outside the function because they will only be added in if they get completed.
+var movies = 6; //Goal
 
-var movies = 6;
+var movieDecision = movieYesorNO(chores,repeat);
 
-function movieYesorNO(){
+function movieYesorNO(chores, repeat){
     var movieDecision = chores + listening + fighting + repeat;
     console.log(movieDecision);
+    return movieDecision;
 }
-movieYesorNO();
+console.log(movieDecision);

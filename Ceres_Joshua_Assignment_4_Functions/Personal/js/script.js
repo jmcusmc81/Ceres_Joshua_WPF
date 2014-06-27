@@ -22,7 +22,7 @@ function birthdayParty1(){ //Parameters are empty for now
 birthdayParty1() //Invoke
 
 //Now I am going to add and argument
-
+s
 var budget = 300;
 
 var finalCost = birthdayParty2(300);
@@ -47,7 +47,7 @@ if(birthdayParty1 < birthdayParty2){
     console.log("You are not within your budget to have the birthday party");
 
 }
-
+s
 //Adding more parameters and arguments
 
 var birthdayParameters = birthdayParty3(40, 150, 150);//Argument
