@@ -81,7 +81,8 @@ if (budget > birthdayParameters){
 //Example ended
 
 var birthdayParty4 = function(cake, venue, presents){
-    
+    var partyCost = cake + venue + presents;
+    return partyCost;
 }
 
 
