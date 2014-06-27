@@ -19,11 +19,24 @@ var repeat = 2;
 //I purposely put the variables outside the function because they will only be added in if they get completed.
 var movies = 6; //Goal
 
-var movieDecision = movieYesorNO(chores,repeat);
+var movieDecision = movieYesorNO(chores,repeat);//Argument
 
-function movieYesorNO(chores, repeat){
-    var movieDecision = chores + listening + fighting + repeat;
-    console.log(movieDecision);
-    return movieDecision;
+function movieYesorNO(chores, repeat){ //Parameters
+    var movieDecision = chores + repeat + listening + fighting;
+    return movieDecision; //Returns the sum to the var movieDecision //Spits out the information
 }
 console.log(movieDecision);
+
+//Logical Operators - Ternary Operators
+/*
+ if(condition){
+ do if true;
+ }else{
+ do if false;
+ }
+ */
+
+//Ternary
+
+/*(Condition) ? console.log("If Statement") : console.log("Else Statement");*/
+
