@@ -19,7 +19,7 @@ function birthdayParty1(){ //Parameters are empty for now
     console.log(totalCost + " dollars is the total cost of the party");
 }
 
-birthdayParty1()//Invoke
+birthdayParty1() //Invoke
 
 //Now I am going to add and argument
 
@@ -110,4 +110,7 @@ if (anon1 > budget){
     console.log("Sorry you do not have enough money for the party");
 }
 
+//Well that took me way longer then I wanted it too and this was my first part of my assignment.
 
+//Everything worked out well and I did not run into many snags. That is good news that I am picking this up and not having as many problems writing the code and statements.
+//Like I did with the other assignments.
