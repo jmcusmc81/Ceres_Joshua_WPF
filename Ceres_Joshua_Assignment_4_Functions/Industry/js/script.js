@@ -23,3 +23,6 @@ while(userPassword===""){
     userPassword = prompt("Please enter your password to continue");
 }
 console.log(userPassword);
+
+var securityInput = prompt("Please enter you security input number");
+
