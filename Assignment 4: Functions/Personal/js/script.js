@@ -60,3 +60,9 @@ function birthdayParty3(cake, venue, presents){//Parameters
 
 
 console.log("The total cost of your birthday party is " + birthdayParameters + " dollars");
+
+if (budget > birthdayParameters){
+    console.log("You have enough money to have the party!!");
+}else{
+    console.log("You do not have enough money to have the party");
+}
