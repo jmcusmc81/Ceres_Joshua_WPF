@@ -80,16 +80,19 @@ if (budget > birthdayParameters){
 //console.log(a);
 //Example ended
 
-var birthdayParty4 = function(cake, venue, presents){
-    var partyCost = cake + venue + presents;
-    return partyCost;
+var birthdayParty4 = function(cake, venue, presents){  //Defining
+    var partyCost = cake + venue + presents; //Code to run
+    return partyCost; //Return
 }
 
-var anon1 = birthdayParty4(40,200,150);
+var anon1 = birthdayParty4(40,200,150); //Invoking
 console.log(anon1 + " dollars is the cost of your party");
 
 
-
+var birthdayParty5 = function(budget, b){
+    var deductedCost = budget - b;
+    return deductedCost;
+}
 
 
 
