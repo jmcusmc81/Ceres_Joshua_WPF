@@ -53,8 +53,8 @@ if(birthdayParty1 < birthdayParty2){
 var birthdayParameters = birthdayParty3(40, 150, 150);//Argument
 
 function birthdayParty3(cake, venue, presents){//Parameters
-    var totalCost = cake + venue + presents;
-    return totalCost;
+    var totalCost = cake + venue + presents;//Code to run
+    return totalCost; //Return to var birthday parameters
     console.log ("The total cost of your birthday party is " + totalCost + " dollars");
 }
 
@@ -66,3 +66,8 @@ if (budget > birthdayParameters){
 }else{
     console.log("You do not have enough money to have the party");
 }
+
+//Anonymous Functions
+
+
+
