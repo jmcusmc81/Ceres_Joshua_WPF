@@ -19,10 +19,10 @@ var repeat = 2;
 //I purposely put the variables outside the function because they will only be added in if they get completed.
 var movies = 6; //Goal
 
-var movieDecision = movieYesorNO(chores,repeat);//Argument
+var movieDecision = movieYesorNO(chores,repeat,fighting);//Argument
 
 function movieYesorNO(chores, repeat){ //Parameters
-    var movieDecision = chores + repeat;
+    var movieDecision = chores + repeat + fighting;
     return movieDecision; //Returns the sum to the var movieDecision //Spits out the information
 }
 console.log(movieDecision);
@@ -42,4 +42,6 @@ console.log(movieDecision);
 
 var moviesGo;
 
-moviesGo = (movieDecision >= movies) ? alert ("You are allowed to go to the movies") : alert ("You are not allowed to go to the movies");
+moviesGo = (movieDecision >= movies)/* Condition */ ? alert ("You are allowed to go to the movies") /* If true */ : alert ("You are not allowed to go to the movies"); //Else False
+
+//Pretty Straight forward function. I just add the variable to the argument and parameter if it was completed, if not then its left out.
