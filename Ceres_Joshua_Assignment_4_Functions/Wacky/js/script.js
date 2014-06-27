@@ -22,7 +22,7 @@ var movies = 6; //Goal
 var movieDecision = movieYesorNO(chores,repeat);//Argument
 
 function movieYesorNO(chores, repeat){ //Parameters
-    var movieDecision = chores + repeat + listening + fighting;
+    var movieDecision = chores + repeat;
     return movieDecision; //Returns the sum to the var movieDecision //Spits out the information
 }
 console.log(movieDecision);
@@ -40,3 +40,6 @@ console.log(movieDecision);
 
 /*(Condition) ? console.log("If Statement") : console.log("Else Statement");*/
 
+var moviesGo;
+
+moviesGo = (movieDecision >= movies) ? alert ("You are allowed to go to the movies") : alert ("You are not allowed to go to the movies");
