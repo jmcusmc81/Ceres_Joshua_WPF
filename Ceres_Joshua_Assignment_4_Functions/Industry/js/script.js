@@ -29,3 +29,6 @@ var securityInput = prompt("Please enter you security input number"); //Security
 while (isNaN(securityInput)){ //Is not a number
     securityInput = prompt("Please enter your security input number to continue"); //Validate and re-prompt if a number is not entered
 }
+console.log(securityInput);
+
+//Everything checked out fine with minor hiccups. I forgot to double parenthesis the -- (isNan(   )) -- which was giving me and error when it went to console.
