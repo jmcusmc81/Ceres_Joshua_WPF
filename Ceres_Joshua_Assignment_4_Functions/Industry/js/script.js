@@ -14,3 +14,7 @@ var userLogin = prompt("Please enter your Username");
 while(userLogin===""){
     userLogin = prompt("Please enter you Username to continue");
 }
+
+console.log(userLogin);
+
+var userPassword = prompt("Please enter your password");
